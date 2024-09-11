@@ -1,7 +1,7 @@
 /*
  Author:Jason Li
  Date:September 11,2024
- Description:This program is aim at calculating the bottle's colum. I regard the bottle as composed of a cone and a cylinder. I round the output to ywo decimals.
+ Description:This program is aimed at calculating the bottle's column. I regard the bottle as composed of a cone and a cylinder. I round the output to two decimals.
  */
 #include<iostream>
 
